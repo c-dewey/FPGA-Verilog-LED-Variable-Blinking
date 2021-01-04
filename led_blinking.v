@@ -33,7 +33,7 @@ module led_blinking(
     
 begin 
 
-// Check 100hz 
+// Check 5hz 
 always @ (posedge i_clk)
     begin
         if (r_clk_5hz == c_clk_5hz-1)
