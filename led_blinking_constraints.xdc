@@ -12,6 +12,3 @@ set_property IOSTANDARD LVCMOS33 [get_ports i_enable]
 
 set_property PACKAGE_PIN R14 [get_ports led_drive]
 set_property IOSTANDARD LVCMOS33 [get_ports led_drive]
-
-
-create_clock -period 8.000 -name i_clk -waveform {0.000 4.000} -add [get_ports i_clk]
