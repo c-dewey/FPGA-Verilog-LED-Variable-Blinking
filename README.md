@@ -11,4 +11,3 @@ currently blink at. This project was significantly more technically complex comp
 
 Relevant files and circuit diagram can be found in the main branch of the repository.
 
-Video demonstration and explanation:
